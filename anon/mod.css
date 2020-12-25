@@ -1,0 +1,32 @@
+body {
+    background-color: #000;
+    color: #fff
+}
+
+#console {
+    font-family: Consolas, Sans-Serif
+}
+
+#center {
+    background-image: url(../ASSETS/img/anon.jpg);
+    background-size: auto 300px
+}
+
+.folder {
+    background-color: #fff
+}
+
+.dragme {
+    border-color: #fff;
+    color: #fff
+}
+
+#button {
+    background-color: #328cb2;
+    color: #fff
+}
+
+#button:hover {
+    color: #328cb2;
+    background-color: #fff
+}
